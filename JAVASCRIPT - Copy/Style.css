@@ -1,0 +1,41 @@
+input{
+  
+  padding: 10px;
+}
+
+.box{
+  display: grid;
+  justify-content: center;
+  margin-top: 30%;
+  
+}
+
+#btn{
+  padding: 10px;
+}
+
+#btn:hover{
+  background-color: #fff;
+  cursor: pointer;
+}
+
+#result{
+  background-color: black;
+  padding: 15px;
+  color: white;
+  overflow: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
